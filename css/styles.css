@@ -4,6 +4,7 @@ body{
   margin: 0;
   color: #40514E;
 }
+
 a{
   color: gray;
   text-decoration: none;
@@ -56,18 +57,18 @@ h3{
 .mountain{
   width:100%;
   position: relative;
-  top:5px;
+  top:10px;
 }
 .cloud1{
   position: absolute;
-  top: 60px;
+  top: 20px;
   right:200px;
   width: 20%;
 }
 .cloud2{
   position: absolute;
-  left: 120px;
-  top: 200px;
+  left: 80px;
+  top: 150px;
   width: 20%;
 
 }
